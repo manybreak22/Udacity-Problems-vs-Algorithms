@@ -1,0 +1,5 @@
+﻿Finding the Square Root of an Integer
+For the calculation of this problem, the binary search tree approach was used in order to 
+Obtain / recognize the approx square root of the integer. The expected time complexity of such
+Data structure approach is O(log(n)) time.  The complexity of such is due to the intermission is 
+constantly being splitter.
